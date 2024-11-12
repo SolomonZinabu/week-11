@@ -7,3 +7,6 @@ yfinance
 scikit-learn  
 pmdarima 
 tensorflow
+yfinance
+pandas
+joblib 
